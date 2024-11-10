@@ -4,6 +4,7 @@
 
 This project involves a data analysis of Blinkit (an online grocery delivery service) to understand customer purchasing patterns, popular products, and sales trends. Using Excel for data cleaning, analysis, and visualization, the project aims to provide actionable insights that can help improve marketing strategies, inventory management, and customer satisfaction.
 
+
 **OBJECTIVES:**
 
 The primary objectives of this analysis are:
@@ -13,9 +14,11 @@ The primary objectives of this analysis are:
 3.	Analyze sales trends over time and by location.
 4.	Provide insights into average delivery times and customer satisfaction factors.
 
+
 **TECHNOLOGIES USED:**
 
 •	Excel: Used for data cleaning, processing, and creating charts and visualizations.
+
 
 
 **DATA CLEANING AND LOADING:**
@@ -27,9 +30,8 @@ The primary objectives of this analysis are:
 •	Organized data into structured tables to facilitate analysis and visualization.
 
 
-**OBJECTIVES:**
 
-**Key Performance Indicators (KPIs):****
+**KEY PERFORMANCE INDICATORS (KPIs):****
 
 Some of the key insights derived from the analysis include:
 
@@ -37,6 +39,7 @@ Some of the key insights derived from the analysis include:
 2. **Average Sales:** Average revenue per sale ($141)
 3. **Number of Items:** Total Count of different items sold (8523)
 4. **Average of Rating:** Average Customer rating for items sold (3.9out of 5).
+
 
 **FEATURES:**
 
@@ -52,6 +55,7 @@ Some of the key insights derived from the analysis include:
 
 •	**Outlet Type Comparison:** Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility.
 
+
 **INSIGHTS**:
 
 1.	Strong overall sales performance with over $1M in total sales
@@ -59,6 +63,7 @@ Some of the key insights derived from the analysis include:
 3.	Fruits, vegetables, and snack foods are the top-selling categories
 4.	Medium-sized outlets in Tier 3 locations show the highest profitability
 5.	Supermarkets generate higher sales volumes, while grocery stores have better item visibility
+
 
 
 **CONCLUSION:**
