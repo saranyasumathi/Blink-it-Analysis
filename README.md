@@ -1,3 +1,5 @@
+Blinkit Data Analysis
+
 **Project Overview:**
 
 This project involves a data analysis of Blinkit (an online grocery delivery service) to understand customer purchasing patterns, popular products, and sales trends. Using Excel for data cleaning, analysis, and visualization, the project aims to provide actionable insights that can help improve marketing strategies, inventory management, and customer satisfaction.
